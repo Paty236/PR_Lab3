@@ -1,0 +1,17 @@
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\PR_Lab3.exe
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\PR_Lab3.deps.json
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\PR_Lab3.runtimeconfig.json
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\PR_Lab3.dll
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\PR_Lab3.pdb
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.csproj.AssemblyReference.cache
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.AssemblyInfoInputs.cache
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.AssemblyInfo.cs
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.csproj.CopyComplete
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.dll
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\refint\PR_Lab3.dll
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.pdb
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\PR_Lab3.genruntimeconfig.cache
+C:\Users\Evghenia\Desktop\PR_Lab3\PR_Lab3\obj\Debug\net6.0\ref\PR_Lab3.dll
